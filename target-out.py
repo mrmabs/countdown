@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# ewetoo@gmail.com
 #
 # non-curses version suitable for command-line or irc
 
